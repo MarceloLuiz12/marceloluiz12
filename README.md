@@ -1,7 +1,7 @@
 ### Olá eu sou o Marcelo Luiz Pinheiro 👋
 
-- 🔭 Hoje trabalho com back-end 
-- 🌱 Estudando C# .Net
+- 💻 Hoje trabalho com back-end 
+- 📚 Estudando C# .Net
 - 📫 Contate-me no email: marcelo_luiz17@outlook.com
 
 <div>
