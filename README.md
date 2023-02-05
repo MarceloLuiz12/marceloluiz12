@@ -1,16 +1,27 @@
-### Olá 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-- 💻 Hoje trabalho com back-end 
-- 📚 Estudando C# .Net
-- 📫 Contate-me no email: marcelo_luiz17@outlook.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelo+Luiz+Pinheiro;I'm+23+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marceloluiz12&show_icons=true&count_private=true&hide_border=true&title_color=#00FF7F&icon_color=00BFFFtext_color=c9d1d9&bg_color=#00FF7F" alt="Marcelo Luiz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloluiz12&layout=compact&hide_border=true&title_color=#F0F8FF&text_color=#000000&bg_color=#1C1C1C" />
+</div>
+
+
+ ### Main skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Marcelo-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
    <img align="center" alt="Marcelo-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-    <img align="center" alt="Marcelo-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
 </div>
+
+### Studying in this moment:
+<div style="display: inline_block"><br>
+   <img align="center" alt="Marcelo-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+     <img align="center" alt="Marcelo-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg">
+</div>
+
 
 ##
 <div>
