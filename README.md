@@ -16,11 +16,6 @@
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marceloluiz12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloluiz12&layout=donut&theme=tokyonight" height="180em"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marceloluiz12&theme=tokyonight&hide_border=false"/>
 </div>
 
