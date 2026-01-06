@@ -1,50 +1,50 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header&text=Bem-vindo!&fontSize=40&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=120&section=header"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Marcelo+Luiz+Pinheiro!;Seja+bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
-</h1>
+<h2 align="center">
+  Marcelo Luiz Pinheiro
+</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  Mobile Engineer • Android • iOS • Kotlin •
 </p>
 
 ---
 
-## 📈 GitHub Insights
+## 🛠️ Stack Principal
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marceloluiz12&theme=tokyonight&hide_border=false"/>
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0A192F?style=flat-square&logo=kotlin)
+![Android](https://img.shields.io/badge/Android-0A192F?style=flat-square&logo=android)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-0A192F?style=flat-square&logo=jetpackcompose)
+![Firebase](https://img.shields.io/badge/Firebase-0A192F?style=flat-square&logo=firebase)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-0A192F?style=flat-square)
+
 </div>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 📊 Atividade no GitHub
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marceloluiz12&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌍 Onde me encontrar
 
 <div align="center">
-  <a href="https://www.instagram.com/marceloluiz18" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/marceloluizpinheiro/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/marceloluizpinheiro/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=flat-square&logo=linkedin"/>
+</a>
+<a href="https://www.instagram.com/marceloluiz18" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0A192F?style=flat-square&logo=instagram"/>
+</a>
+
 </div>
 
-<br>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=80&section=footer"/>
