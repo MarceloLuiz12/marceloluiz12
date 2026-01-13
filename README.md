@@ -24,14 +24,6 @@
 
 ---
 
-## 📊 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marceloluiz12&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🌍 Onde me encontrar
 
 <div align="center">
