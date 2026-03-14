@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:0D2137&height=220&section=header&text=Marcelo%20Luiz%20Pinheiro&fontSize=42&fontColor=64FFDA&animation=fadeIn&fontAlignY=38&desc=Senior%20Android%20Developer&descAlignY=60&descSize=22&descColor=8892B0"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Senior+Android+Developer+%F0%9F%A4%96;Kotlin+%7C+Jetpack+Compose+%7C+KMP;P%C3%B3s-Graduando+em+Engenharia+Mobile+%F0%9F%8E%93;Apaixonado+por+arquitetura+limpa+e+performance" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Senior+Android+Developer+%F0%9F%A4%96;Kotlin+%7C+Jetpack+Compose+%7C+KMP;P%C3%B3s-Graduando+em+Engenharia+Mobile+%F0%9F%8E%93" alt="Typing SVG"/>
 </p>
 
 ---
