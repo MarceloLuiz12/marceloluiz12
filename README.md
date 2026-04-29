@@ -17,75 +17,8 @@ Sou **Desenvolvedor Android Sênior** com foco em construir aplicações robusta
 - 📱 Especialista em **Android nativo** com Kotlin
 - 🏗️ Arquiteturas: **Clean Architecture**, MVVM, MVI
 - 🔄 **Kotlin Multiplatform** para soluções cross-platform
-- ⚡ Foco em **performance**, **qualidade de código** e **boas práticas**
 
 <br/>
-
----
-
-## 🛠️ Stack Android
-
-<div align="center">
-
-### 📱 Core Android
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### 🏗️ Arquitetura & Padrões
-
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0A192F?style=for-the-badge&logo=kotlin&logoColor=64FFDA)
-![MVVM](https://img.shields.io/badge/MVVM-0A192F?style=for-the-badge&logo=android&logoColor=64FFDA)
-![MVI](https://img.shields.io/badge/MVI-0A192F?style=for-the-badge&logo=android&logoColor=64FFDA)
-![MVP](https://img.shields.io/badge/MVP-0A192F?style=for-the-badge&logo=android&logoColor=64FFDA)
-![Modularização](https://img.shields.io/badge/Modulariza%C3%A7%C3%A3o-0A192F?style=for-the-badge&logo=gradle&logoColor=64FFDA)
-
-### 🔧 Jetpack & Bibliotecas
-
-![Room](https://img.shields.io/badge/Room-0A192F?style=for-the-badge&logo=sqlite&logoColor=64FFDA)
-![Hilt](https://img.shields.io/badge/Hilt%20DI-0A192F?style=for-the-badge&logo=android&logoColor=64FFDA)
-![Navigation](https://img.shields.io/badge/Navigation-0A192F?style=for-the-badge&logo=android&logoColor=64FFDA)
-![WorkManager](https://img.shields.io/badge/WorkManager-0A192F?style=for-the-badge&logo=android&logoColor=64FFDA)
-![DataStore](https://img.shields.io/badge/DataStore-0A192F?style=for-the-badge&logo=android&logoColor=64FFDA)
-![Paging3](https://img.shields.io/badge/Paging%203-0A192F?style=for-the-badge&logo=android&logoColor=64FFDA)
-
-### ⚡ Assincronismo & Redes
-
-![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flow](https://img.shields.io/badge/Kotlin%20Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-0A192F?style=for-the-badge&logo=square&logoColor=64FFDA)
-![OkHttp](https://img.shields.io/badge/OkHttp-0A192F?style=for-the-badge&logo=square&logoColor=64FFDA)
-![Ktor](https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-
-### 🌐 Backend & Cloud
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![FCM](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### 🔀 Multiplataforma
-
-![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-
-### 🧪 Testes
-
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![MockK](https://img.shields.io/badge/MockK-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🛠️ Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
 
 ---
 
@@ -121,9 +54,6 @@ Sou **Desenvolvedor Android Sênior** com foco em construir aplicações robusta
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.instagram.com/marceloluiz18" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
 </div>
 
